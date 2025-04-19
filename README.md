@@ -68,7 +68,7 @@ ALAND/ALAND_miles- Area of land in meters or miles
 ### The Problem
 Food deserts affect approximately 19 million Americans, particularly in low-income and rural areas. Hidalgo County, Texas—a border region—has a disproportionate number of food deserts, with over 74,000 low-income residents having limited access to fresh, nutritious food. Traditional grocery stores often avoid these areas due to perceived low profitability, creating a persistent gap in food accessibility.
 
-![figure_1](https://git.generalassemb.ly/algreen59/Project5-FoodDeserts/assets/54579/3b8e7754-eda3-48f9-9da2-0aa9458ec3ed)
+![figure_1](https://github.com/user-attachments/assets/bcb32973-46d7-4d82-a51e-6c9c20cae889)
 
 ### Project Goals
 This project aims to design an efficient mobile farmers market system that can reach the maximum number of food desert residents in Hidalgo County while minimizing operational costs and travel time. The specific objectives include:
