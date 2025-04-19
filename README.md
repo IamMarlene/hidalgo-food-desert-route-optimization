@@ -86,7 +86,7 @@ The project utilized a multi-stage analytical approach:
 5. **Route Optimization**: The Traveling Salesman Problem (TSP) was solved for each territory using Google's OR-Tools library, with a 14-hour workday constraint (assuming 2 hours per stop and 50 mph average travel speed).
 
 ### Key Findings
-![figure](https://github.com/user-attachments/assets/bcb32973-46d7-4d82-a51e-6c9c20cae889)
+![figure](https://github.com/user-attachments/assets/7db6863b-841e-4493-a1f2-a6737d243ae3)
 
 The analysis generated several significant findings:
 - Three distinct service territories emerged: Western, Central/Southern, and Eastern Hidalgo County
